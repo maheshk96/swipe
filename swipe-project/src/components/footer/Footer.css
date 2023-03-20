@@ -1,0 +1,13 @@
+.footer {
+
+}
+.accept{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 1rem;
+}
+.reject {
+    width: fit-content;
+    padding: 1rem;
+}

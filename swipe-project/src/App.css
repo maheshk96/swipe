@@ -1,0 +1,13 @@
+.app{
+  display: grid;
+  justify-content: center;
+  padding: 3rem;
+}
+
+.card {
+  padding: 1rem;
+}
+
+.read-the-docs {
+  color: #888;
+}

@@ -1,0 +1,11 @@
+.header {
+
+}
+.app-name {
+    display: flex;
+    float: left;
+}
+.user-name {
+    display: flex;
+    float: right;
+}
